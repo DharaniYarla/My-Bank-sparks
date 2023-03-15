@@ -1,0 +1,62 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+}
+
+/* navba  */
+.bg-light{
+    background-color: white!important;
+}
+
+.navbar-brand{
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 1.5rem;
+    color: #070808!important;
+}
+.modal fade{
+    background-color:blue;
+}
+
+.nav-link{
+    color: #5f6368!important;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.nav-link:hover{
+    background-color: gray;
+}
+/* navbar  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(223, 230, 237)!important;
+    color: #090707!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(71, 77, 69)!important;
+}
+.container{
+    width: 100%;
+    background-color:white;
+}
+.table-light{
+    background-color: orange;
+    color: green;
+}
+.table-info{
+    color: red;
+}
+.modal-body{
+    width: 100%;
+}
+.modal fade{
+    width: 100%;
+}
